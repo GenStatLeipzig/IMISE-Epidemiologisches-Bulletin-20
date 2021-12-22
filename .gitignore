@@ -27,3 +27,4 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 IMISE-Epidemiologisches-Bulletin-20.Rproj
+.Readme.md.~8b0
